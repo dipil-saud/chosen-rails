@@ -2,6 +2,8 @@
 
 [Chosen](https://github.com/harvesthq/chosen) is a library for making long, unwieldy select boxes more user friendly.
 
+This fork uses the forked(https://github.com/koenpunt/chosen) Chosen which supports adding new options(https://github.com/harvesthq/chosen/pull/166).
+
 The `chosen-rails` gem integrates the `Chosen` with the Rails asset pipeline.
 
 ## Usage
